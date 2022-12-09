@@ -6,3 +6,7 @@
 
 # Python Coding Test
 백준 : 단계별로 풀어보기(https://www.acmicpc.net/step)
+
+# algorithm Study
+1. 개발자라면 알아야 될 Big O 개념 (https://www.youtube.com/watch?v=BEVnxbxBqi8)
+2. 정렬 알고리즘:버블정렬, 선택정렬, 삽입정렬 (https://www.youtube.com/watch?v=Bor_CRWEIXo)
