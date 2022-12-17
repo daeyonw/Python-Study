@@ -5,7 +5,8 @@
 1. 생활코딩 Python 입문수업 (https://www.youtube.com/watch?v=-3DHpwy498o&list=PLuHgQVnccGMDtnr4nTSFfmocHL5FeH1xR)
 
 # Python Coding Test
-백준 : 단계별로 풀어보기(https://www.acmicpc.net/step)
+1. 백준 : 단계별로 풀어보기(https://www.acmicpc.net/step)
+2. Covenant(https://covenant.tistory.com/224)
 
 # algorithm Study
 1. 검색 알고리즘 : 선형검색, 이진검색 (https://www.youtube.com/watch?v=WjIlVlmmNqs)
